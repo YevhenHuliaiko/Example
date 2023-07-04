@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/Example 001_HellowConsole.csproj": {}
+    "/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/Example002 HelloUser.csproj": {}
   },
   "projects": {
-    "/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/Example 001_HellowConsole.csproj": {
+    "/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/Example002 HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/Example 001_HellowConsole.csproj",
-        "projectName": "Example 001_HellowConsole",
-        "projectPath": "/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/Example 001_HellowConsole.csproj",
+        "projectUniqueName": "/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/Example002 HelloUser.csproj",
+        "projectName": "Example002 HelloUser",
+        "projectPath": "/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/Example002 HelloUser.csproj",
         "packagesPath": "/Users/evgenijgulajko/.nuget/packages/",
-        "outputPath": "/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/",
+        "outputPath": "/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/evgenijgulajko/.nuget/NuGet/NuGet.Config"

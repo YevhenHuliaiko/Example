@@ -1,0 +1,15 @@
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/bin/Debug/net6.0/Example002 HelloUser
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/bin/Debug/net6.0/Example002 HelloUser.deps.json
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/bin/Debug/net6.0/Example002 HelloUser.runtimeconfig.json
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/bin/Debug/net6.0/Example002 HelloUser.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/bin/Debug/net6.0/Example002 HelloUser.pdb
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.csproj.AssemblyReference.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.AssemblyInfoInputs.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.AssemblyInfo.cs
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.csproj.CoreCompileInputs.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/refint/Example002 HelloUser.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.pdb
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/Example002 HelloUser.genruntimeconfig.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example002 HelloUser/obj/Debug/net6.0/ref/Example002 HelloUser.dll

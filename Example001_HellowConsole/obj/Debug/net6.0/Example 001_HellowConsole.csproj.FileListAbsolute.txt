@@ -13,3 +13,18 @@
 /Users/evgenijgulajko/Desktop/C#/Examples/Example 001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.pdb
 /Users/evgenijgulajko/Desktop/C#/Examples/Example 001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.genruntimeconfig.cache
 /Users/evgenijgulajko/Desktop/C#/Examples/Example 001_HellowConsole/obj/Debug/net6.0/ref/Example 001_HellowConsole.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example 001_HellowConsole
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example 001_HellowConsole.deps.json
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example 001_HellowConsole.runtimeconfig.json
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example 001_HellowConsole.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example 001_HellowConsole.pdb
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.csproj.AssemblyReference.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.AssemblyInfoInputs.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.AssemblyInfo.cs
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.csproj.CoreCompileInputs.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/refint/Example 001_HellowConsole.dll
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.pdb
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example 001_HellowConsole.genruntimeconfig.cache
+/Users/evgenijgulajko/Desktop/C#/Examples/Example001_HellowConsole/obj/Debug/net6.0/ref/Example 001_HellowConsole.dll
